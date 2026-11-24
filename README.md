@@ -2,7 +2,7 @@
 
 A beginner machine learning project that predicts an Iris flower species from four measurements: sepal length, sepal width, petal length, and petal width.
 
-## Internship ID
+## CIS134
 
 Add your own internship ID here before submitting this repository:
 
